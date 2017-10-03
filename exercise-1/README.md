@@ -10,3 +10,6 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+> When life is full of lemons make lemonade
+[lemons](https://www.google.com/search?q=lemons&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiFldTzm9PWAhWGi1QKHSl1A-4Q_AUICigB&biw=794&bih=736&dpr=2)
